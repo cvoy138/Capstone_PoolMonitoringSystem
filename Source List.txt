@@ -1,0 +1,11 @@
+This page is used for adding useful research links and descriptions:
+
+Ex: 
+0. www.example.com
+    -description of important info used from source
+
+1. 
+
+2. 
+
+3. 
