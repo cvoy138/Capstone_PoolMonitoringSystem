@@ -27,7 +27,6 @@ SIDEBAR_STYLE = {
     "padding": "2rem 1rem",
     "background-color": "#91d5e6",
 }
-
 # the styles for the main content position it to the right of the sidebar and
 # add some padding.
 CONTENT_STYLE = {
